@@ -1,7 +1,7 @@
 # Hi there, I'm Rudra! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Google+Cloud+Professional;Firebase+Expert;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;iOS+Developer;Android+Developer;Web+Developer;Google+Cloud+Professional;Firebase+Expert;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -9,9 +9,10 @@
 - 🔭 I'm currently working at **DuckBuck Studios** and contributing to open source
 - 🌱 I'm always learning and exploring new technologies
 - 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about web development, mobile development, Firebase, Google Cloud, and problem-solving
+- 💬 Ask me about **web development**, **mobile development** (iOS/Android), **Firebase**, **Google Cloud**, and problem-solving
+- 📱 Specialized in **iOS Development**, **Android Development**, and **Web Development**
 - ☁️ Professional expertise in **Google Cloud Platform** and **Firebase** ecosystem
-- 📫 How to reach me: [Your Email] | [Your LinkedIn]
+- 📫 How to reach me: rudranarayanaknr@gmail.com | [Your LinkedIn]
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality
 
 ## 🛠️ Tech Stack
@@ -23,6 +24,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
@@ -99,22 +102,14 @@
 - 🏢 **Current Role**: Developer at **DuckBuck Studios**
 - 🌟 **Open Source Contributions**: Actively contributing to various open-source projects
 - ☁️ **Google Cloud Professional**: Expert in GCP services, Firebase, and cloud architecture
-- 📱 **Mobile Development**: Building cross-platform apps with Flutter
+- 📱 **Multi-Platform Development**: Building iOS, Android, and Web applications
+- 🍎 **iOS Development**: Native iOS apps using Swift and modern frameworks
+- 🤖 **Android Development**: Native Android apps using Kotlin and Java
+- 🌐 **Web Development**: Full-stack web applications using modern frameworks
 - 🔧 **Problem Solver**: Solved numerous complex algorithmic and system design problems
 - 📝 **Pull Requests**: Created and merged multiple PRs across different repositories
 - 🐛 **Issue Resolution**: Actively helping the community by resolving issues
 - 📚 **Knowledge Sharing**: Contributing to documentation and helping fellow developers
-
-## 🚀 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/rudra-sah00/project-1)
-Brief description of your most impressive project. What it does, technologies used, and impact.
-
-### 🌟 [Project Name 2](https://github.com/rudra-sah00/project-2)
-Another significant project that showcases your skills and expertise.
-
-### 🌟 [Project Name 3](https://github.com/rudra-sah00/project-3)
-A third project that demonstrates your versatility and technical abilities.
 
 ## 🤝 Open Source Contributions
 
@@ -128,11 +123,6 @@ A third project that demonstrates your versatility and technical abilities.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 📅 Commit Calendar
-<div align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/rudra-sah00" alt="GitHub Chart" />
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -140,7 +130,7 @@ A third project that demonstrates your versatility and technical abilities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudranarayanaknr@gmail.com)
 
 </div>
 
@@ -153,10 +143,6 @@ A third project that demonstrates your versatility and technical abilities.
 - ⚡ Quick learner and adaptable to new environments
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <div align="center">
   <h3>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</h3>
