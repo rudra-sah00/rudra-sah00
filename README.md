@@ -167,11 +167,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Key+Milestones+%26+Accomplishments" alt="Achievements" />
 </div>
 
+<br>
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏢 Current Role & Impact
 **🎯 Developer @ DuckBuck Studios**  
 Leading innovative development projects
@@ -188,9 +190,9 @@ GCP services, Firebase & cloud architecture mastery
 **🔧 Cross-Platform Development**  
 iOS, Android & Web application expertise
 
-      </td>
-      <td width="50%" align="center">
-        
+</td>
+<td width="50%" valign="top">
+
 ### 🍎 iOS Development Excellence
 **📲 Native iOS Apps**  
 Swift & modern framework implementation
@@ -207,19 +209,15 @@ Modern frameworks & cutting-edge solutions
 **🧠 Claude AI Expert**  
 Advanced prompt engineering techniques
 
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        
-### 🔧 Technical Excellence
-**🚀 Problem Solver** | **📝 Pull Request Creator** | **🐛 Issue Resolver** | **📚 Knowledge Sharer**
-        
-*Actively helping the developer community through contributions, documentation, and mentorship*
-        
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<h3>🔧 Technical Excellence</h3>
+<p><strong>🚀 Problem Solver</strong> | <strong>📝 Pull Request Creator</strong> | <strong>🐛 Issue Resolver</strong> | <strong>📚 Knowledge Sharer</strong></p>
+<p><em>Actively helping the developer community through contributions, documentation, and mentorship</em></p>
 </div>
 
 ## 🤝 Open Source Impact
@@ -291,30 +289,30 @@ Advanced prompt engineering techniques
 ## 💡 Philosophy & Interests
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-        <h4>🎯 Problem Solver</h4>
-        <p><i>Love tackling challenging coding problems</i></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
-        <h4>🌱 Continuous Learner</h4>
-        <p><i>Always exploring new technologies</i></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100">
-        <h4>🤝 Collaborator</h4>
-        <p><i>Enjoy working with other developers</i></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
-        <h4>📚 Knowledge Sharer</h4>
-        <p><i>Passionate about sharing & learning</i></p>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+<h4>🎯 Problem Solver</h4>
+<p><i>Love tackling challenging coding problems</i></p>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+<h4>🌱 Continuous Learner</h4>
+<p><i>Always exploring new technologies</i></p>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100">
+<h4>🤝 Collaborator</h4>
+<p><i>Enjoy working with other developers</i></p>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
+<h4>📚 Knowledge Sharer</h4>
+<p><i>Passionate about sharing & learning</i></p>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
