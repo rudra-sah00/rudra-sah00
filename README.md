@@ -1,151 +1,374 @@
-# Hi there, I'm Rudra! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Rudra%20Sahoo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Mobile+App+Developer;iOS+Developer;Android+Developer;Web+Developer;Google+Cloud+Professional;Firebase+Expert;Prompt+Engineering+Expert;Claude+AI+Specialist;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Welcome to my Digital Universe!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=🚀+Full+Stack+Developer+%7C+Mobile+Architect;📱+iOS+%26+Android+Expert+%7C+Web+Innovator;☁️+Google+Cloud+Professional+%7C+Firebase+Guru;🤖+Prompt+Engineering+Expert+%7C+Claude+AI+Specialist;🌟+Open+Source+Contributor+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at **DuckBuck Studios** and contributing to open source
-- 🌱 I'm always learning and exploring new technologies
-- 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about **web development**, **mobile development** (iOS/Android), **Firebase**, **Google Cloud**, and problem-solving
-- 📱 Specialized in **iOS Development**, **Android Development**, and **Web Development**
-- ☁️ Professional expertise in **Google Cloud Platform** and **Firebase** ecosystem
-- 🤖 **Prompt Engineering Expert**: Specialized in Claude AI models and advanced prompt engineering techniques
-- 📫 How to reach me: rudranarayanaknr@gmail.com | Portfolio: rudrasahoo.me
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality
-
-## 🛠️ Tech Stack
-
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
+      </td>
+      <td>
+        
+**🔭 Currently Building:** Revolutionary solutions at **DuckBuck Studios** & contributing to open source  
+**🌱 Learning Journey:** Always exploring cutting-edge technologies  
+**👯 Collaboration:** Seeking innovative projects & passionate developers  
+**💬 Let's Talk:** Web development, Mobile apps (iOS/Android), Firebase, Google Cloud & creative problem-solving  
+**📱 Specialization:** Multi-platform development across iOS, Android & Web  
+**☁️ Expertise:** Google Cloud Platform & Firebase ecosystem mastery  
+**🤖 AI Specialist:** Prompt Engineering Expert with Claude AI models  
+**📫 Reach Me:** rudranarayanaknr@gmail.com | Portfolio: [rudrasahoo.me](https://rudrasahoo.me)  
+**⚡ Philosophy:** Turning complex problems into elegant solutions  
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-sah00&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=My+Tech+Stack" alt="Tech Stack" />
+  &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
 </div>
 
-### 🔥 GitHub Streak
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-sah00&theme=tokyonight" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        
+### 🌐 Languages & Frameworks
+        
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+        
+</div>
+        
+      </td>
+      <td align="center" width="50%">
+        
+### 🎨 Frontend Technologies
+        
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+        
+</div>
+        
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        
+### ⚙️ Backend & APIs
+        
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+        
+</div>
+        
+      </td>
+      <td align="center">
+        
+### 🗄️ Database & Storage
+        
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
+        
+</div>
+        
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        
+### ☁️ Cloud & DevOps Mastery
+        
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+        
+</div>
+        
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📈 Contribution Graph
+## 📊 GitHub Analytics Dashboard
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <h3>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+    &nbsp;Statistics & Performance Metrics&nbsp;
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  </h3>
 </div>
 
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudra-sah00&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-sah00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 Detailed Stats
+<div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+</div>
 
 <div align="center">
+  <h3>📈 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+</div>
 
-### 📈 Pull Requests & Issues
-<img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues_fixed,prs_created,issues_created" />
+<div align="center">
+  <h3>🏆 Achievement Showcase</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=rudra-sah00&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-### 💻 Weekly Development Breakdown
+## 📊 Advanced Analytics
+
+<div align="center">
+  
+### 📈 Detailed Performance Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues_fixed,prs_created,issues_created&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="Detailed Stats" />
+
+### 💻 Development Time Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 📊 Profile Views
-<img src="https://komarev.com/ghpvc/?username=rudra-sah00&color=blueviolet&style=flat-square&label=Profile+Views" />
+### 👁️ Profile Analytics
+<img src="https://komarev.com/ghpvc/?username=rudra-sah00&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rudra-sah00?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 
 </div>
 
-## 🎯 Key Achievements
-
-- 🏢 **Current Role**: Developer at **DuckBuck Studios**
-- 🌟 **Open Source Contributions**: Actively contributing to various open-source projects
-- ☁️ **Google Cloud Professional**: Expert in GCP services, Firebase, and cloud architecture
-- 📱 **Multi-Platform Development**: Building iOS, Android, and Web applications
-- 🍎 **iOS Development**: Native iOS apps using Swift and modern frameworks
-- 🤖 **Android Development**: Native Android apps using Kotlin and Java
-- 🌐 **Web Development**: Full-stack web applications using modern frameworks
-- 🤖 **AI & Prompt Engineering**: Expert in Claude AI models and advanced prompt engineering techniques
-- 🔧 **Problem Solver**: Solved numerous complex algorithmic and system design problems
-- 📝 **Pull Requests**: Created and merged multiple PRs across different repositories
-- 🐛 **Issue Resolution**: Actively helping the community by resolving issues
-- 📚 **Knowledge Sharing**: Contributing to documentation and helping fellow developers
-
-## 🤝 Open Source Contributions
+## 🎯 Professional Journey & Achievements
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rudra-sah00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Key+Milestones+%26+Accomplishments" alt="Achievements" />
 </div>
-
-## 🌐 Connect with Me
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        
+### 🏢 Current Role & Impact
+**🎯 Developer @ DuckBuck Studios**  
+Leading innovative development projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-narayana-sahoo-695342288/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudra.sah00/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://rudrasahoo.me)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudranarayanaknr@gmail.com)
+### 🌟 Open Source Excellence  
+**📈 Active Contributor**  
+Making meaningful contributions across repositories
 
+### ☁️ Cloud Architecture Expert
+**🏅 Google Cloud Professional**  
+GCP services, Firebase & cloud architecture mastery
+
+### 📱 Multi-Platform Mastery
+**🔧 Cross-Platform Development**  
+iOS, Android & Web application expertise
+
+      </td>
+      <td width="50%" align="center">
+        
+### 🍎 iOS Development Excellence
+**📲 Native iOS Apps**  
+Swift & modern framework implementation
+
+### 🤖 Android Development Pro
+**⚡ Native Android Apps**  
+Kotlin & Java development expertise
+
+### 🌐 Web Development Innovation
+**💻 Full-Stack Applications**  
+Modern frameworks & cutting-edge solutions
+
+### 🤖 AI & Prompt Engineering
+**🧠 Claude AI Expert**  
+Advanced prompt engineering techniques
+
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        
+### 🔧 Technical Excellence
+**🚀 Problem Solver** | **📝 Pull Request Creator** | **🐛 Issue Resolver** | **📚 Knowledge Sharer**
+        
+*Actively helping the developer community through contributions, documentation, and mentorship*
+        
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 💡 Fun Facts
+## 🤝 Open Source Impact
 
-- 🎯 I love tackling challenging coding problems
-- 🌱 Always exploring new technologies and frameworks
-- 🤝 Enjoy collaborating with other developers
-- 📚 Passionate about learning and sharing knowledge
-- ⚡ Quick learner and adaptable to new environments
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40">
+    Community Contributions
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40">
+  </h3>
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=rudra-sah00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Contribution Stats" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-sah00&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    Find Me Around The Web
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  </h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/rudra-narayana-sahoo-695342288/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+        </a>
+        <br>
+        <sub><b>Professional Network</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/rudra.sah00/">
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+        </a>
+        <br>
+        <sub><b>Creative Moments</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://rudrasahoo.me">
+          <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+        </a>
+        <br>
+        <sub><b>My Digital Home</b></sub>
+      </td>
+      <td align="center">
+        <a href="mailto:rudranarayanaknr@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+        </a>
+        <br>
+        <sub><b>Direct Contact</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing!;Open+to+Collaborations;Always+Ready+for+New+Challenges" alt="Collaboration" />
+</div>
+
+## 💡 Philosophy & Interests
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+        <h4>🎯 Problem Solver</h4>
+        <p><i>Love tackling challenging coding problems</i></p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+        <h4>🌱 Continuous Learner</h4>
+        <p><i>Always exploring new technologies</i></p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100">
+        <h4>🤝 Collaborator</h4>
+        <p><i>Enjoy working with other developers</i></p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
+        <h4>📚 Knowledge Sharer</h4>
+        <p><i>Passionate about sharing & learning</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h4>⚡ Core Values: Quick Learning | Adaptability | Innovation | Excellence</h4>
+</div>
 
 ---
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+digital+universe!;Let's+create+something+extraordinary+together!;The+future+is+built+by+those+who+code+it!" alt="Closing Message" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufcVAp3AiJJsrIs/giphy.gif" width="200">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" />
 </div>
