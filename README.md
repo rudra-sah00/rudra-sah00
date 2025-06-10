@@ -247,38 +247,38 @@ Advanced prompt engineering techniques
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/rudra-narayana-sahoo-695342288/">
-          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-        </a>
-        <br>
-        <sub><b>Professional Network</b></sub>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/rudra.sah00/">
-          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-        </a>
-        <br>
-        <sub><b>Creative Moments</b></sub>
-      </td>
-      <td align="center">
-        <a href="https://rudrasahoo.me">
-          <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
-        </a>
-        <br>
-        <sub><b>My Digital Home</b></sub>
-      </td>
-      <td align="center">
-        <a href="mailto:rudranarayanaknr@gmail.com">
-          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-        </a>
-        <br>
-        <sub><b>Direct Contact</b></sub>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/rudra-narayana-sahoo-695342288/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<br>
+<sub><b>Professional Network</b></sub>
+</td>
+<td align="center">
+<a href="https://www.instagram.com/rudra.sah00/">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
+<br>
+<sub><b>Creative Moments</b></sub>
+</td>
+<td align="center">
+<a href="https://rudrasahoo.me">
+<img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+</a>
+<br>
+<sub><b>My Digital Home</b></sub>
+</td>
+<td align="center">
+<a href="mailto:rudranarayanaknr@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<br>
+<sub><b>Direct Contact</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
