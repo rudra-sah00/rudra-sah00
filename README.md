@@ -25,8 +25,8 @@
     <tr>
       <td>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
-      </td>
-      <td>
+</td>
+<td>
         
 **🔭 Currently Building:** Revolutionary solutions at **DuckBuck Studios** & contributing to open source  
 **🌱 Learning Journey:** Always exploring cutting-edge technologies  
@@ -38,9 +38,9 @@
 **📫 Reach Me:** rudranarayanaknr@gmail.com | Portfolio: [rudrasahoo.me](https://rudrasahoo.me)  
 **⚡ Philosophy:** Turning complex problems into elegant solutions  
 
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 </div>
 
 ## 🛠️ Tech Arsenal
@@ -121,12 +121,12 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-      </td>
-      <td>
+</td>
+<td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-sah00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
