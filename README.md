@@ -334,6 +334,3 @@ Advanced prompt engineering techniques
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" />
 </div>
-
-
-
