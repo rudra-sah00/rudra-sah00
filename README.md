@@ -15,6 +15,8 @@
     <img src="https://komarev.com/ghpvc/?username=rudra-sah00&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/rudra-sah00?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/rudra-sah00?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+    <img src="https://badges.pufler.dev/visits/rudra-sah00/rudra-sah00?color=blue&logo=GitHub" alt="Visits Badge"/>
+    <img src="https://badges.pufler.dev/years/rudra-sah00?color=blue&logo=github" alt="Years Badge"/>
   </p>
 </div>
 
@@ -23,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </div>
 
 ## 🚀 About Me
@@ -65,9 +67,9 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=My+Tech+Stack;Always+Evolving;Building+The+Future" alt="Tech Stack" />
-  &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+  &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
 </div>
 
 <br>
@@ -507,7 +509,9 @@ Advanced prompt engineering techniques
   
   <br>
   
-  <img src="https://github.com/rudra-sah00/rudra-sah00/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <div align="center">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="70%" alt="Dino Animation"/>
+  </div>
 </div>
 
 ---
@@ -516,4 +520,8 @@ Advanced prompt engineering techniques
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" />
   
   <p><sub>⭐ Star this repository if you found it interesting! | Made with ❤️ and lots of ☕</sub></p>
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="750">
+  </div>
 </div>
