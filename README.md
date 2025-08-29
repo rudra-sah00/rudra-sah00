@@ -15,8 +15,8 @@
     <img src="https://komarev.com/ghpvc/?username=rudra-sah00&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/rudra-sah00?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/rudra-sah00?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-    <img src="https://badges.pufler.dev/visits/rudra-sah00/rudra-sah00?color=blue&logo=GitHub" alt="Visits Badge"/>
-    <img src="https://badges.pufler.dev/years/rudra-sah00?color=blue&logo=github" alt="Years Badge"/>
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Repos&style=flat-square&color=green&query=%24.public_repos&url=https://api.github.com/users/rudra-sah00" alt="GitHub Repos"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus"/>
   </p>
 </div>
 
