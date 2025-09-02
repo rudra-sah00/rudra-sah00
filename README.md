@@ -139,54 +139,42 @@
 
 <div align="center">
   <h3>🔥 Contribution Streak & Activity</h3>
-  <img src="https://streak-stats.demolab.com/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=F85149&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&card_width=500&card_height=200" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=F85149&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
   
   <br><br>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.vercel.app/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&card_width=500" alt="Alternative Streak Stats" />
-      </td>
-    </tr>
-  </table>
-  
   <div align="center">
-    <h4>📊 Daily Contribution Pattern</h4>
-    <img src="https://ghchart.rshah.org/58a6ff/rudra-sah00" alt="Contribution Heatmap" width="90%"/>
+    <h4>📊 Coding Activity Heatmap</h4>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Yearly%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&height=300" alt="Activity Graph" />
     <br>
-    <sub><i>🔥 Consistency is key to mastering the craft</i></sub>
+    <sub><i>🎯 Consistency builds expertise</i></sub>
   </div>
 </div>
 
 <div align="center">
-  <h3>📈 Contribution Activity Graph</h3>
+  <h3>📈 Modern Contribution Visualization</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Annual%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night&height=350&days=365" alt="Contribution Activity Graph" />
 </div>
 
 <div align="center">
-  <h3>🎨 Advanced Contribution Visualization</h3>
+  <h3>🎨 Sleek Contribution Grid</h3>
+  <img src="https://ssr-contributions-svg.vercel.app/_/rudra-sah00?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_8&format=svg&weeks=53&theme=purple" alt="3D Contribution Grid" />
+  <br>
+  <sub><b>Interactive 3D Contribution Visualization</b></sub>
+</div>
+
+<div align="center">
+  <h3>⚡ Real-time GitHub Stats</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://ghchart.rshah.org/58a6ff/rudra-sah00" alt="GitHub Contribution Chart" />
-        <br>
-        <sub><b>GitHub Contribution Heatmap</b></sub>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="Real-time GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rudra-sah00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🌊 Interactive Contribution Grid</h3>
-  <img src="https://ghchart.rshah.org/667eea/rudra-sah00" alt="Interactive Contribution Grid" />
-  <br>
-  <sub><b>Hover to see daily contributions</b></sub>
-</div>
-
-<div align="center">
-  <h3>📊 Interactive Contribution Metrics</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=rudra-sah00&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Timeline&height=300" alt="Interactive Contribution Graph" />
 </div>
 
 <div align="center">
