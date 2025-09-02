@@ -193,7 +193,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 🌟 Profile Summary Cards
+### 🌟 Enhanced Profile Analytics</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-sah00&theme=tokyonight" alt="Profile Summary" />
 
 <br>
@@ -217,11 +217,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🎯 Advanced GitHub Analytics</h3>
-  <img src="https://metrics.lecoq.io/rudra-sah00?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&reactions=1&people=1&sponsors=1&repositories=1&stargazers=1&licenses=1&habits=1&code=1&activity=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&followup.sections=repositories&followup.indepth=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.details=false&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D%2C%20dependabot-preview%5Bbot%5D&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors.sections=goal%2C%20list%2C%20about&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.token=NOT_SET&licenses.setup=false&licenses.legal=true&licenses.ratio=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Comprehensive GitHub Metrics"/>
 </div>
 
 </div>
