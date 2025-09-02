@@ -139,12 +139,54 @@
 
 <div align="center">
   <h3>🔥 Contribution Streak & Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=F85149&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&card_width=500&card_height=200" alt="GitHub Streak Stats" />
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.vercel.app/?user=rudra-sah00&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&card_width=500" alt="Alternative Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <h4>📊 Daily Contribution Pattern</h4>
+    <img src="https://ghchart.rshah.org/58a6ff/rudra-sah00" alt="Contribution Heatmap" width="90%"/>
+    <br>
+    <sub><i>🔥 Consistency is key to mastering the craft</i></sub>
+  </div>
 </div>
 
 <div align="center">
   <h3>📈 Contribution Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Annual%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night&height=350&days=365" alt="Contribution Activity Graph" />
+</div>
+
+<div align="center">
+  <h3>🎨 Advanced Contribution Visualization</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://ghchart.rshah.org/58a6ff/rudra-sah00" alt="GitHub Contribution Chart" />
+        <br>
+        <sub><b>GitHub Contribution Heatmap</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🌊 Interactive Contribution Grid</h3>
+  <img src="https://ghchart.rshah.org/667eea/rudra-sah00" alt="Interactive Contribution Grid" />
+  <br>
+  <sub><b>Hover to see daily contributions</b></sub>
+</div>
+
+<div align="center">
+  <h3>📊 Interactive Contribution Metrics</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=rudra-sah00&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Timeline&height=300" alt="Interactive Contribution Graph" />
 </div>
 
 <div align="center">
@@ -168,8 +210,31 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-sah00&theme=tokyonight" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-sah00&theme=tokyonight" alt="Most Commit Language"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-sah00&theme=tokyonight" alt="Repos per Language"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-sah00&theme=tokyonight" alt="Most Commit Language"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra-sah00&theme=tokyonight" alt="Stats Card"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-sah00&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🎯 Advanced GitHub Analytics</h3>
+  <img src="https://metrics.lecoq.io/rudra-sah00?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&reactions=1&people=1&sponsors=1&repositories=1&stargazers=1&licenses=1&habits=1&code=1&activity=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&followup.sections=repositories&followup.indepth=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.details=false&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D%2C%20dependabot-preview%5Bbot%5D&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors.sections=goal%2C%20list%2C%20about&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.token=NOT_SET&licenses.setup=false&licenses.legal=true&licenses.ratio=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Comprehensive GitHub Metrics"/>
+</div>
 
 </div>
 
