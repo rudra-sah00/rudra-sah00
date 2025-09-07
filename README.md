@@ -49,7 +49,7 @@
 **📱 Specialization:** Multi-platform development across iOS, Android & Web ecosystems  
 **☁️ Expertise:** Google Cloud Platform & Firebase ecosystem mastery  
 **🤖 AI Specialist:** Prompt Engineering Expert with Claude AI models & ChatGPT  
-**📫 Reach Me:** [rudranarayanaknr@gmail.com](mailto:rudranarayanaknr@gmail.com) | Portfolio: [rudrasahoo.me](https://rudrasahoo.me)  
+**📫 Reach Me:** [rudranarayanaknr@gmail.com](mailto:rudranarayanaknr@gmail.com) | Portfolio: [rudrasahoo.live](https://rudrasahoo.live)  
 **⚡ Philosophy:** Turning complex problems into elegant solutions that make a difference  
 
 ### 🎯 **Quick Facts**
