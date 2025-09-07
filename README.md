@@ -410,7 +410,7 @@ Advanced prompt engineering techniques
 <sub>Follow my journey</sub>
 </td>
 <td align="center" width="20%">
-<a href="https://rudrasahoo.me" target="_blank">
+<a href="https://rudrasahoo.live" target="_blank">
 <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
 </a>
 <br>
