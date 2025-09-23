@@ -84,8 +84,8 @@
       </td>
       <td align="center" width="33%">
         <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,kotlin,swift,dart,cpp" /><br>
-        <sub>Node.js • Express • Python • Java • Kotlin • Swift • Dart • C++</sub>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,kotlin,swift,dart,cpp,kafka" /><br>
+        <sub>Node.js • Express • Python • Java • Kotlin • Swift • Dart • C++ • Kafka</sub>
       </td>
       <td align="center" width="33%">
         <h3>🗄️ Database</h3>
@@ -94,6 +94,12 @@
       </td>
     </tr>
     <tr>
+      <td align="center" width="33%">
+        <h3>📡 Message Brokers</h3>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_ZooKeeper-00A82D?style=for-the-badge&logo=apache&logoColor=white"/><br>
+        <sub>Apache Kafka • Apache ZooKeeper</sub>
+      </td>
       <td align="center" width="33%">
         <h3>☁️ Cloud & DevOps</h3>
         <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,aws,git" /><br>
@@ -104,11 +110,17 @@
         <img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,xcode" /><br>
         <sub>VS Code • Figma • Postman • Android Studio • Xcode</sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="33%">
         <h3>🤖 AI & More</h3>
         <img src="https://img.shields.io/badge/Claude-AI-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/ChatGPT-AI-00A67E?style=for-the-badge&logo=openai&logoColor=white"/><br>
         <sub>Prompt Engineering • AI Integration</sub>
+      </td>
+      <td align="center" width="33%">
+      </td>
+      <td align="center" width="33%">
       </td>
     </tr>
   </table>
