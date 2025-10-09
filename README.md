@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/github/stars/rudra-sah00?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Repos&style=flat-square&color=green&query=%24.public_repos&url=https://api.github.com/users/rudra-sah00" alt="GitHub Repos"/>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus"/>
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&style=flat-square&color=orange&query=%24.total_contributions&url=https://github-contributions-api.jogruber.de/v4/rudra-sah00?y=last" alt="Total Commits"/>
   </p>
 </div>
 
@@ -202,10 +203,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues_fixed,prs_created,issues_created&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="Detailed Stats" />
 
 ### 💻 Development Time Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- GitHub Activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Last%2030%20Days%20Activity&height=300" alt="Activity Graph" />
 
-### 🌟 Enhanced Profile Analytics</h3>
+### 🌟 Enhanced Profile Analytics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-sah00&theme=tokyonight" alt="Profile Summary" />
 
 <br>
@@ -231,6 +232,14 @@
   </table>
 </div>
 
+### 🔥 Recent Activity Feed
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </div>
 
 ## 🚀 Featured Projects & Work
@@ -244,9 +253,13 @@
     <tr>
       <td align="center" width="50%">
         <h3>🔥 Featured Repositories</h3>
+        <!-- Automatically updates with your pinned repos -->
         <a href="https://github.com/rudra-sah00">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-sah00&repo=rudra-sah00&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Featured Repo"/>
         </a>
+        <br><br>
+        <!-- Add more featured repos dynamically -->
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=rudra-sah00&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget"/>
       </td>
       <td align="center" width="50%">
         <h3>💼 Professional Portfolio</h3>
@@ -255,6 +268,16 @@
         </a>
         <br><br>
         <p><em>Explore my complete collection of projects, case studies, and technical blog posts</em></p>
+        <br>
+        <!-- GitHub Skyline -->
+        <a href="https://skyline.github.com/rudra-sah00/2024" target="_blank">
+          <img src="https://img.shields.io/badge/3D%20Skyline-View%202024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
+        </a>
+        <br><br>
+        <!-- Holopin Badges -->
+        <a href="https://holopin.io/@rudrasah00">
+          <img src="https://holopin.me/rudrasah00" alt="Holopin Badges"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -307,6 +330,10 @@ Leading innovative development projects
 
 ### 🌟 Open Source Excellence  
 **📈 Active Contributor**  
+![GitHub User's stars](https://img.shields.io/github/stars/rudra-sah00?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/rudra-sah00?style=for-the-badge&logo=github&label=Followers&color=blue)
+![Total Contributions](https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Contributions&style=for-the-badge&color=brightgreen&query=%24.total_contributions&url=https://github-contributions-api.jogruber.de/v4/rudra-sah00?y=last)
+
 Making meaningful contributions across repositories
 
 ### ☁️ Cloud Architecture Expert
@@ -358,7 +385,27 @@ Advanced prompt engineering techniques
   
   <p><em>"Contributing to the developer community, one commit at a time"</em></p>
   
-  <img src="https://github-contributor-stats.vercel.app/api?username=rudra-sah00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Contribution Stats" />
+  <!-- Dynamic GitHub Contribution Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=rudra-sah00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Contributed Repos" />
+  
+  <br><br>
+  
+  <!-- Snake Animation - Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudra-sah00/rudra-sah00/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudra-sah00/rudra-sah00/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rudra-sah00/rudra-sah00/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <br><br>
+  
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/rudra-sah00?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&followup=1&people=1&projects=1&code=1&activity=1&achievements=1&notable=1&discussions=1&reactions=1&posts=1&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&reactions.limit=200&reactions.days=0&reactions.display=absolute&reactions.details=percentage&posts.limit=4&posts.source=dev.to&repositories.featured=rudra-sah00&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" width="900"/>
+  
+  <br><br>
+  
+  <!-- Contribution Calendar Heatmap -->
+  <img src="https://ghchart.rshah.org/667eea/rudra-sah00" alt="GitHub Contribution Chart" width="800"/>
   
   <br><br>
   
@@ -479,6 +526,26 @@ Advanced prompt engineering techniques
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Real-time GitHub Insights</h3>
+  
+  <!-- Detailed Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rudrasah00&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact" alt="Coding Stats" />
+  
+  <br><br>
+  
+  <!-- Pull Request & Issue Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-sah00&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra-sah00&theme=tokyonight" alt="Stats"/>
+  
+  <br><br>
+  
+  <!-- Repo Traffic & Stars -->
+  <img src="https://api.star-history.com/svg?repos=rudra-sah00/rudra-sah00&type=Date" alt="Star History" width="600"/>
 </div>
 
 ## 💡 Philosophy & Core Values
