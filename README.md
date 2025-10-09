@@ -246,10 +246,6 @@
 10. 💪 Opened PR [#4238](https://github.com/PalisadoesFoundation/talawa-admin/pull/4238) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
 <!--END_SECTION:activity-->
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 </div>
 
 ## 🚀 Featured Projects & Work

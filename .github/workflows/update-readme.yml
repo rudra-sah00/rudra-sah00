@@ -39,13 +39,3 @@ jobs:
         with:
           COMMIT_MSG: 'Updated recent activity'
           MAX_LINES: 10
-          
-      # Update Blog Posts
-      - name: Update Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/rudrasah00"
-          max_post_count: 5
-          committer_username: "readme-bot"
-          committer_email: "readme-bot@example.com"
-          commit_message: "Updated latest blog posts"
