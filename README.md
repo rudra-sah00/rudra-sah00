@@ -246,19 +246,19 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🔥 Featured Repositories</h3>
-        <!-- Automatically updates with your pinned repos -->
-        <a href="https://github.com/rudra-sah00">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-sah00&repo=rudra-sah00&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Featured Repo"/>
+        <h3>🔥 Featured Repository</h3>
+        <!-- DuckBuck AI Walkie Talkie -->
+        <a href="https://github.com/rudra-sah00/DuckBuck-AI-Walkie-Talkie">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-sah00&repo=DuckBuck-AI-Walkie-Talkie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="DuckBuck AI Walkie Talkie"/>
         </a>
         <br><br>
-        <!-- Add more featured repos dynamically -->
+        <!-- GitHub Stats Widget -->
         <img src="https://github-widgetbox.vercel.app/api/profile?username=rudra-sah00&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget"/>
       </td>
       <td align="center" width="50%">
         <h3>💼 Professional Portfolio</h3>
-        <a href="https://rudrasahoo.me" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+        <a href="https://rudrasahoo.live/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-rudrasahoo.live-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
         </a>
         <br><br>
         <p><em>Explore my complete collection of projects, case studies, and technical blog posts</em></p>
