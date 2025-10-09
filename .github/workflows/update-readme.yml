@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '.github/workflows/**'
 
 jobs:
   update-readme:
