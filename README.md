@@ -265,12 +265,11 @@
         <br>
         <!-- GitHub Skyline -->
         <a href="https://skyline.github.com/rudra-sah00/2024" target="_blank">
-          <img src="https://img.shields.io/badge/3D%20Skyline-View%202024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
+          <img src="https://img.shields.io/badge/GitHub-3D%20Skyline%202024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
         </a>
-        <br><br>
-        <!-- Holopin Badges -->
-        <a href="https://holopin.io/@rudrasah00">
-          <img src="https://holopin.me/rudrasah00" alt="Holopin Badges"/>
+        &nbsp;
+        <a href="https://github.com/rudra-sah00?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Explore-All%20Projects-success?style=for-the-badge&logo=github" alt="All Projects"/>
         </a>
       </td>
     </tr>
