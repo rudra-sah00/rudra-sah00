@@ -1,0 +1,27 @@
+settings:
+  username: "rudra-sah00"
+  commit_username: "github-actions[bot]"
+  commit_email: "github-actions[bot]@users.noreply.github.com"
+  commit_msg: "⚡ Update README with recent activity"
+  max_lines: 10
+  readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  date:
+    text: "Last Updated:"
+    format: "dd MMM yyyy - HH:mm UTC"
+    timezone: "Asia/Kolkata"
+  commit_name: "Recent Activity"
+  url_text: "{REPO}{ID}"
+  messages:
+    comments: "💬 Commented on {ID} in {REPO}"
+    issue_opened: "❗️ Opened issue {ID} in {REPO}"
+    issue_closed: "✔️ Closed issue {ID} in {REPO}"
+    pr_opened: "🔔 Opened PR {ID} in {REPO}"
+    pr_closed: "🚀 Merged PR {ID} in {REPO}"
+    pr_merged: "⚡ PR {ID} merged in {REPO}"
+    create_repo: "📦 Created new repo {REPO}"
+    fork_repo: "🔱 Forked {REPO}"
+    wiki_create: "📖 Created wiki page in {REPO}"
+    star_repo: "⭐ Starred {REPO}"
+    release: "🎉 Released {ID} in {REPO}"
