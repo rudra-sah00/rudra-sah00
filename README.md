@@ -234,6 +234,16 @@
 
 ### 🔥 Recent Activity Feed
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4268](https://github.com/PalisadoesFoundation/talawa-admin/pull/4268#issuecomment-3382736774) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🗣 Commented on [#4268](https://github.com/PalisadoesFoundation/talawa-admin/pull/4268#issuecomment-3378565448) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#4268](https://github.com/PalisadoesFoundation/talawa-admin/pull/4268#issuecomment-3378444961) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 🗣 Commented on [#4268](https://github.com/PalisadoesFoundation/talawa-admin/pull/4268#issuecomment-3369045895) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#4268](https://github.com/PalisadoesFoundation/talawa-admin/pull/4268#issuecomment-3367053396) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+6. ❌ Closed PR [#4239](https://github.com/PalisadoesFoundation/talawa-admin/pull/4239) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+7. 💪 Opened PR [#4239](https://github.com/PalisadoesFoundation/talawa-admin/pull/4239) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+8. 🗣 Commented on [#3554](https://github.com/PalisadoesFoundation/talawa-admin/issues/3554#issuecomment-3347987861) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+9. ❌ Closed PR [#4238](https://github.com/PalisadoesFoundation/talawa-admin/pull/4238) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+10. 💪 Opened PR [#4238](https://github.com/PalisadoesFoundation/talawa-admin/pull/4238) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
