@@ -157,23 +157,11 @@
   <br><br>
   
   <div align="center">
-    <h4>📊 Coding Activity Heatmap</h4>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Yearly%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&height=300" alt="Activity Graph" />
+    <h4>📊 Contribution Graph</h4>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Annual%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night&height=300" alt="Activity Graph" />
     <br>
     <sub><i>🎯 Consistency builds expertise</i></sub>
   </div>
-</div>
-
-<div align="center">
-  <h3>📈 Modern Contribution Visualization</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Annual%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night&height=350&days=365" alt="Contribution Activity Graph" />
-</div>
-
-<div align="center">
-  <h3>🎨 Sleek Contribution Grid</h3>
-  <img src="https://ssr-contributions-svg.vercel.app/_/rudra-sah00?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_8&format=svg&weeks=53&theme=purple" alt="3D Contribution Grid" />
-  <br>
-  <sub><b>Interactive 3D Contribution Visualization</b></sub>
 </div>
 
 <div align="center">
@@ -405,16 +393,6 @@ Advanced prompt engineering techniques
   
   <br><br>
   
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/rudra-sah00?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&followup=1&people=1&projects=1&code=1&activity=1&achievements=1&notable=1&discussions=1&reactions=1&posts=1&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&reactions.limit=200&reactions.days=0&reactions.display=absolute&reactions.details=percentage&posts.limit=4&posts.source=dev.to&repositories.featured=rudra-sah00&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" width="900"/>
-  
-  <br><br>
-  
-  <!-- Contribution Calendar Heatmap -->
-  <img src="https://ghchart.rshah.org/667eea/rudra-sah00" alt="GitHub Contribution Chart" width="800"/>
-  
-  <br><br>
-  
   <table>
     <tr>
       <td align="center" width="25%">
@@ -532,26 +510,6 @@ Advanced prompt engineering techniques
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 Real-time GitHub Insights</h3>
-  
-  <!-- Detailed Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rudrasah00&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact" alt="Coding Stats" />
-  
-  <br><br>
-  
-  <!-- Pull Request & Issue Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-sah00&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra-sah00&theme=tokyonight" alt="Stats"/>
-  
-  <br><br>
-  
-  <!-- Repo Traffic & Stars -->
-  <img src="https://api.star-history.com/svg?repos=rudra-sah00/rudra-sah00&type=Date" alt="Star History" width="600"/>
 </div>
 
 ## 💡 Philosophy & Core Values
