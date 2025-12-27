@@ -49,14 +49,6 @@ Full Stack Developer & Mobile Architect passionate about building elegant soluti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/rudra-sah00/DuckBuck-AI-Walkie-Talkie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-sah00&repo=DuckBuck-AI-Walkie-Talkie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="DuckBuck AI Walkie Talkie"/>
-  </a>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
