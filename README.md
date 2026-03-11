@@ -28,11 +28,11 @@ Full Stack Developer & Mobile Architect passionate about building elegant soluti
       </td>
       <td align="center" width="33%">
         <h3>Backend</h3>
-        <img src="https://skillicons.dev/icons?i=go" />
+        <img src="https://skillicons.dev/icons?i=go,nodejs" />
       </td>
       <td align="center" width="33%">
         <h3>Database & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis,gcp,aws" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis,gcp,aws,cloudflare" />
       </td>
     </tr>
   </table>
