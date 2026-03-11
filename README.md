@@ -24,15 +24,15 @@ Full Stack Developer & Mobile Architect passionate about building elegant soluti
     <tr>
       <td align="center" width="33%">
         <h3>Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,html,css,tailwind,js,ts" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts" />
       </td>
       <td align="center" width="33%">
         <h3>Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,kotlin,swift,dart,cpp,kafka" />
+        <img src="https://skillicons.dev/icons?i=go" />
       </td>
       <td align="center" width="33%">
         <h3>Database & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,gcp,docker,git" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis,gcp,aws" />
       </td>
     </tr>
   </table>
