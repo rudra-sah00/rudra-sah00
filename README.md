@@ -6,16 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Mobile+Architect;iOS+%26+Android+Expert+%7C+Web+Innovator;Google+Cloud+Professional+%7C+Firebase+Guru;Prompt+Engineering+Expert+%7C+Claude+AI+Specialist" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 Full Stack Developer & Mobile Architect passionate about building elegant solutions that make a difference. Currently creating innovative products at **DuckBuck Studios** while contributing to open source.
 
-- 🔭 **Focus:** Multi-platform development (iOS, Android, Web)
-- ☁️ **Cloud:** Google Cloud Platform & Firebase specialist
-- 🤖 **AI:** Prompt engineering with Claude AI & ChatGPT
-- 📫 **Contact:** [rudranarayanaknr@gmail.com](mailto:rudranarayanaknr@gmail.com)
-- 🌐 **Portfolio:** [rudrasahoo.live](https://rudrasahoo.live)
-- 💡 **Philosophy:** Turning complex problems into elegant solutions
+-  **Focus:** Multi-platform development (iOS, Android, Web)
+-  **Cloud:** Google Cloud Platform & Firebase specialist
+-  **AI:** Prompt engineering with Claude AI & ChatGPT
+-  **Contact:** [rudranarayanaknr@gmail.com](mailto:rudranarayanaknr@gmail.com)
+-  **Portfolio:** [rudrasahoo.live](https://rudrasahoo.live)
+-  **Philosophy:** Turning complex problems into elegant solutions
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ Full Stack Developer & Mobile Architect passionate about building elegant soluti
   </table>
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudra-sah00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" width="49%"/>
@@ -49,7 +49,7 @@ Full Stack Developer & Mobile Architect passionate about building elegant soluti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-sah00&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rudra-narayana-sahoo-695342288/">
