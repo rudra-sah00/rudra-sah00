@@ -1,6 +1,6 @@
 # `Rudra Sahoo`
 
-Full Stack Developer & Mobile Architect — building elegant solutions at **DuckBuck Studios**.
+Full Stack Developer & Mobile Architect
 
 ---
 
@@ -19,17 +19,6 @@ Full Stack Developer & Mobile Architect — building elegant solutions at **Duck
 **Backend:** Go, Node.js  
 **Database:** MongoDB, PostgreSQL, Redis  
 **Cloud:** GCP, AWS, Firebase, Cloudflare
-
----
-
-### GitHub Stats
-
-```
-📊 Public Repos    → check my repositories below
-🔥 Contributions   → open source & personal projects
-☁️  Cloud Focus     → GCP, Firebase, AWS
-📱 Mobile Focus    → iOS & Android
-```
 
 ---
 
